@@ -1,8 +1,9 @@
-import React from 'react'
+import { Github, Linkedin, Mail, ExternalLink, Code2, Palette, Rocket } from 'lucide-react';
+import NavBar from './components/navBar';
 
 const App = () => {
   return (
-    <div className="text-3xl">App</div>
+      <NavBar/>
   )
 }
 
