@@ -1,12 +1,14 @@
-import { Github, Linkedin, Mail, ExternalLink, Code2, Palette, Rocket } from 'lucide-react';
+import { Github, Linkedin, Mail, ExternalLink } from 'lucide-react';
 import NavBar from './components/navBar';
 import Hero from './components/Hero';
+import Body from './components/Body';
 
 const App = () => {
   return (
     <>
       <NavBar />
       <Hero />
+      <Body/>
     </>
   )
 }
