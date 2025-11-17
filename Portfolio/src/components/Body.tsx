@@ -11,10 +11,10 @@ const Body = () => {
                             I'm a passionate Software Engineer with a deep love for creating exceptional digital experiences that make a real impact. With a strong background in full-stack development and problem-solving, I’ve worked on projects that turn complex ideas into practical, reliable solutions — from fintech platforms to technical system designs.
                         </p>
                         <p className="text-lg text-slate-600 mb-4 leading-relaxed">
-                            My journey in tech began with curiosity — a desire to understand how things work. That curiosity grew into a commitment to building solutions that are not only efficient and scalable but also intuitive and user-focused. I take pride in writing clean, thoughtful code that contributes to a seamless experience for both businesses and their customers.
+                            My journey in tech began with curiosity, a desire to understand how things work. That curiosity grew into a commitment to building solutions that are not only efficient and scalable but also intuitive and user-focused. I take pride in writing clean, thoughtful code that contributes to a seamless experience for both businesses and their customers.
                         </p>
                         <p className="text-lg text-slate-600 leading-relaxed">
-                            When I’m not coding, I’m exploring new technologies, contributing to open-source projects, or collaborating with other developers to share knowledge. I believe in continuous learning, teamwork, and building technology that empowers people — values that deeply resonate with purpose-driven approach to fintech.
+                            When I’m not coding, I’m exploring new technologies, contributing to open-source projects, or collaborating with other developers to share knowledge. I believe in continuous learning, teamwork, and building technology that empowers people  values that deeply resonate with purpose-driven approach to fintech.
                         </p>
                     </div>
                     <div className="space-y-4">
